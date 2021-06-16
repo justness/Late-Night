@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: c50180de2004e114bb90ab6afa31fdc3
+  - enabled: 1
+    path: Assets/Scenes/1900/Office.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/1900/Apartment.unity
+    guid: b1ad7495ecbbc964eac4368212eda5db
+  - enabled: 1
+    path: Assets/Scenes/1900/Nightclub.unity
+    guid: 623c793c636bbfb44bb3936b0f6482c1
+  - enabled: 1
+    path: Assets/Scenes/1900/Street.unity
+    guid: 9a7b30c034530c64690388747658e723
+  - enabled: 1
+    path: Assets/Scenes/1900/Alley.unity
+    guid: f7a7eda645f82294b8cce55c252286d4
+  - enabled: 1
+    path: Assets/Scenes/2000/Apartment1.unity
+    guid: d4d1f6f36fd04a44194b56914fc63e1c
+  - enabled: 1
+    path: Assets/Scenes/2000/Nightclub1.unity
+    guid: c3a7700154115d44599975e38b54104d
+  - enabled: 1
+    path: Assets/Scenes/2000/Street1.unity
+    guid: 01f8fb45c592c764fa32d3d426b027b7
+  - enabled: 1
+    path: Assets/Scenes/2000/Alley1.unity
+    guid: 3d0f7d698407ac54e9d3b16a167079db
+  - enabled: 1
+    path: Assets/Scenes/2000/Office1.unity
+    guid: 9f0608aa29f044a479e695825b9dc8c5
+  - enabled: 1
+    path: Assets/Scenes/2100/Apartment2.unity
+    guid: ce9713c722f664e4686f5c8af9118b1d
+  - enabled: 1
+    path: Assets/Scenes/2100/Nightclub2.unity
+    guid: 044ffff6afbf80c4a9662560b76e31ea
+  - enabled: 1
+    path: Assets/Scenes/2100/Street2.unity
+    guid: 80748225c0f4e0e4db8e8cba2184b912
+  - enabled: 1
+    path: Assets/Scenes/2100/Alley2.unity
+    guid: ab0dac15366cf6f44996e57d123d03e0
+  - enabled: 1
+    path: Assets/Scenes/2100/Office2.unity
+    guid: 697bceed011ed9b45a7064ff72d93c7e
+  - enabled: 1
+    path: Assets/Scenes/2100/Waterfront.unity
+    guid: 4516888548f28de44a3c217fd83cf804
+  m_configObjects: {}
